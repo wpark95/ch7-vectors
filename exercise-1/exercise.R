@@ -37,4 +37,4 @@ cos_wave <- cos(x_range)
 wave <- sin_wave * cos_wave
 
 # Use the `plot()` function to plot your `wave`!
-
+plot(wave)
